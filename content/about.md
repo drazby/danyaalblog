@@ -1,19 +1,14 @@
-+++
-title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
-+++
+---
+title: "About"
+date: 2022-06-08T14:46:13-04:00
+draft: false
+toc: false
+images:
+---
+Hi There! :wave: My name is Danyaal. I currently live in `[redacted]`. Thanks for visitng my website!
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+This is my personal space where I discuss things that I find interesting. I hope the content I make is interesting to you.
 
-It makes use of a variety of open source projects including:
+If you happen to like some of my stuff, feel free to let me know by contacting me! :sunglasses: Anyways, have a great day!
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+{{< image src="/img/test.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
